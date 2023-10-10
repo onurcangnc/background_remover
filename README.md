@@ -1,9 +1,11 @@
 # Background Remover
 
-<div style="text-align: center;">
-  <img src="removebg.png" alt="remove.bg Logo" width="100" height="100" style="float: left; margin-right: 20px;">
-  <img src="python.png" alt="Python Logo" width="100" height="100" style="float: right; margin-left: 20px;">
-</div>
+<table>
+  <tr>
+    <td><img src="python.png" alt="Left Logo"></td>
+    <td><img src="removebg.png" alt="Right Logo"></td>
+  </tr>
+</table>
 
 Background Remover is a script that utilizes the remove.bg API to remove the background from an image, leaving the subject or object isolated. This can be useful for creating visually appealing images, isolating objects, or preparing images for various design purposes.
 
