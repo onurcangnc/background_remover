@@ -47,5 +47,10 @@ Before using this script, ensure you have the following requirements in place:
 
 ## Example Run:
 
-
-    <img src="example.png" alt="example run">
+    <table>
+        <tr>
+            <td>
+                <img src="python.png" alt="Left Logo">
+            </td>
+        </tr>
+    </table>
