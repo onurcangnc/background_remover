@@ -47,4 +47,4 @@ Before using this script, ensure you have the following requirements in place:
 
 ## Example Run:
 
-    <img src="https://github.com/onurcangnc/background_remover/raw/main/example.png" alt="Example Image">
+   ![Example Image](https://github.com/onurcangnc/background_remover/raw/main/example.png)
