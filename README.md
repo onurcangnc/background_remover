@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td><img src="python.png" alt="Left Logo"></td>
-    <td><img src="removebg.png" alt="Right Logo"></td>
+    <td><img src="python.png" alt="Left Logo" style="float: left;"></td>
+    <td><img src="removebg.png" alt="Right Logo" style="float: right";></td>
   </tr>
 </table>
 
