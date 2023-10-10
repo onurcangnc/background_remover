@@ -47,10 +47,4 @@ Before using this script, ensure you have the following requirements in place:
 
 ## Example Run:
 
-    <table>
-        <tr>
-            <td>
-                <img src="example.png">
-            </td>
-        </tr>
-    </table>
+    <img src="https://github.com/onurcangnc/background_remover/raw/main/example.png" alt="Example Image">
