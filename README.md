@@ -43,4 +43,9 @@ Before using this script, ensure you have the following requirements in place:
 2. Run
 
     ```python
-    python3 removeBg.py        
+    python3 removeBg.py
+
+## Example Run:
+
+
+    <img src="image.png" alt="Right Logo">
