@@ -48,4 +48,4 @@ Before using this script, ensure you have the following requirements in place:
 ## Example Run:
 
 
-    <img src="image.png" alt="Right Logo">
+    <img src="example.png" alt="example run">
