@@ -1,5 +1,8 @@
 # Background Remover
 
+
+![remove.bg Logo](removebg-logo.png) ![Python Logo](python-logo.png)
+
 Background Remover is a script that utilizes the remove.bg API to remove the background from an image, leaving the subject or object isolated. This can be useful for creating visually appealing images, isolating objects, or preparing images for various design purposes.
 
 ## Prerequisites
