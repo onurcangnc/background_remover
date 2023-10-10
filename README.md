@@ -50,7 +50,7 @@ Before using this script, ensure you have the following requirements in place:
     <table>
         <tr>
             <td>
-                <img src="python.png" alt="Left Logo">
+                <img src="example.png">
             </td>
         </tr>
     </table>
