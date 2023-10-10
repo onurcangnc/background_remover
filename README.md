@@ -1,9 +1,11 @@
 # Background Remover
 
-<div style="text-align: center;">
-    <img src="python.png" alt="Left Logo" style="display: inline-block;">
-    <img src="removebg.png" alt="Right Logo" style="display: inline-block;">
-</div>
+<table style="margin: 0 auto;">
+        <tr>
+            <td><img src="python.png" alt="Left Logo"></td>
+            <td><img src="removebg.png" alt="Right Logo"></td>
+        </tr>
+</table>
 
 
 
